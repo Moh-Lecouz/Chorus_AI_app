@@ -1,6 +1,12 @@
 # Chorus_AI_app
 Chorus AI app for Lablab AI Hackathon - GPT-4o Challenge 
 
+## Introduction Video
+
+Watch the video below to understand how the Speech Impairment Advisor works:
+
+![Introduction Video](Chorus_App_Demo_for_Lablab.mp4)
+
 ## Overview
 
 The Chorus AI app is an AI-based voice application designed to assist users in improving their voice quality. It is particularly useful for individuals experiencing voice disorders or speech impairments that affect their communication ability. The app provides voice feedback, improvement advice, and exercise demonstrations tailored to the user's needs.
