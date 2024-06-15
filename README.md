@@ -5,7 +5,7 @@ Chorus AI app for Lablab AI Hackathon - GPT-4o Challenge
 
 Watch the video below to understand how the Speech Impairment Advisor works:
 
-![Introduction Video](Chorus_App_Demo_for_Lablab.mp4)
+![Demo](https://github.com/Moh-Lecouz/Chorus_AI_app/assets/86624116/4209f412-7001-4422-a442-88839bf65035)
 
 ## Overview
 
